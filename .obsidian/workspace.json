@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "3110ba4dda6bb918",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d14da76c7775e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20bad76a5a8d52e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/TUMC.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4c4aadc79bf39ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c4e2e5abd1c8f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd26fbe2b6511b8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "753cc076d337f9b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "801659c98eeec30d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac26210565d44bae",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1142c8e2fe4ee2d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fbecadd741ac4c9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "right": {
+    "id": "18f696ac7fc35cd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "10491df28d4688bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96baee403027e1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/TUMC.excalidraw.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d035a176cab6c7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/TUMC.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "104afc875062b263",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a6aa9739481b9eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/TUMC.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e5d1faea9870fa16",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "02d581cb5274cd13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo canvas": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "random-note:Abrir nota al azar": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "graph:Abrir vista gráfica": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "local-backup:Run local backup": false
+    }
+  },
+  "active": "f20bad76a5a8d52e",
+  "lastOpenFiles": [
+    "The Ultimate Minecraft Companion-Backup-2024_02_13-13_11_55.zip",
+    "Imágenes conceptuales/Herramientas/Tutorial calcular ángulo.jpg",
+    "Imágenes conceptuales/Página principal/Información de versiones.jpg",
+    "Imágenes conceptuales/Página principal/Noticias.jpg",
+    "Ideas fundamentales del proyecto.md",
+    "The Ultimate Minecraft Companion-Backup-2024_02_12-19_36_06.zip",
+    "Funciones principales de la aplicación/Wiki.md",
+    "Funciones principales de la aplicación/Proyectos personales.md",
+    "Funciones principales de la aplicación/Noticias.md",
+    "Funciones principales de la aplicación/Herramientas.md",
+    "Funciones principales de la aplicación/Estructura principal de la aplicación.canvas",
+    "Aspectos técnicos/Tutoriales Flutter.md",
+    "Aspectos técnicos/Lenguaje de programación.md",
+    "Aspectos técnicos/Conexión a internet.md",
+    "Índice.md",
+    "Funciones principales de la aplicación/Funciones principales de la aplicación.md",
+    "Sin título.md",
+    "asdf.md",
+    "Ideas locas para un futuro remoto.md",
+    "Imágenes conceptuales/Imágenes conceptuales.md",
+    "Inicio.md",
+    "Funciones principales de la aplicación",
+    "Página principal.md",
+    "Spaces/Home",
+    "Spaces",
+    "Interfaz.md",
+    "Imágenes/Información de versiones.jpg",
+    "29-nov-2023.md",
+    "Imágenes/Layout 2 menú lateral.jpg",
+    "Imágenes/Recetas y drops.jpg",
+    "Imágenes/Noticias.jpg",
+    "Imágenes/Layout menú lateral (2).jpg",
+    "Imágenes/Layout menú lateral (2).jpg",
+    "Imágenes/Layout menú lateral.jpg",
+    "Aspectos técnicos/~syncthing~Lenguaje de programación.md.tmp",
+    "~syncthing~Ideas locas para un futuro remoto.md.tmp",
+    "Funciones principales de la aplicación/~syncthing~Herramientas.md.tmp",
+    "~syncthing~Interfaz.md.tmp",
+    "~syncthing~Ideas fundamentales del proyecto.md.tmp",
+    "Funciones principales de la aplicación/~syncthing~Proyectos personales.md.tmp",
+    "23-nov-2023.md",
+    "Sin título 2.canvas",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "Página principal.sync-conflict-20231119-140742-TJYK2I2.md",
+    "14-nov-2023.md"
+  ]
+}

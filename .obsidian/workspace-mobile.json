@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "de38441f253949e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "57aba04d281b7e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e80d56db48860932",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Excalidraw/TUMC.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "cf1c5ce21dcd1eda",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/TUMC.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9975ade88d2b95b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "73a82a8369bd1b08",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "834a30b5c44361b9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "[\"cssclasses\"]",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "50d8f6bdc0dcb4c5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d56db684eaf26984",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "b4c194453eea8b50",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a64ec2dfde2dd07d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5e9b0c9ab7c043df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/TUMC.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "0dd7444938f9c61a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Excalidraw/TUMC.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2d6a8460597f2774",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Excalidraw/TUMC.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "51ab40a009ae457f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "random-note:Abrir nota al azar": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cf1c5ce21dcd1eda",
+  "lastOpenFiles": [
+    "Excalidraw/TUMC.excalidraw",
+    "Excalidraw/TUMC.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-11 21.54.09.excalidraw.md",
+    "Bocetos de diseño de la UI/Página principal.md",
+    "Funciones principales de la aplicación/Estructura principal de la aplicación.canvas",
+    "Página principal.md",
+    "Excalidraw",
+    "Interfaz.md",
+    "Bocetos de diseño de la UI",
+    "Ideas locas para un futuro remoto.md",
+    "Funciones principales de la aplicación/Wiki.md",
+    "Imágenes conceptuales/Página principal/Noticias.jpg",
+    "Aspectos técnicos/Conexión a internet.md",
+    "Imágenes conceptuales/Página principal/Idea 3/Layout 2 menú inferior (2).jpg",
+    "Imágenes conceptuales/Página principal/Idea 3/Layout 2 menú inferior.jpg",
+    "Imágenes conceptuales/Página principal/Idea 2/Layout menú inferior.jpg",
+    "Imágenes conceptuales/Página principal/Idea 1/Layout menú lateral (2).jpg",
+    "Imágenes conceptuales/Página principal/Idea 1/Layout menú lateral.jpg",
+    "Imágenes conceptuales/Página principal/Idea 1/Layout 2 menú lateral.jpg",
+    "Imágenes conceptuales/Página principal/Información de versiones.jpg",
+    "Imágenes conceptuales/Página principal/Cuadro de búsqueda.jpg",
+    "Imágenes conceptuales/Página principal/Idea 3",
+    "Imágenes conceptuales/Página principal/Idea 2",
+    "Imágenes conceptuales/Página principal/Idea 1",
+    "IMG_20231206_103010.jpg",
+    "Índice.md",
+    "Ideas fundamentales del proyecto.md",
+    "Aspectos técnicos/Lenguaje de programación.md",
+    "Aspectos técnicos/Tutoriales Flutter.md",
+    "Imágenes conceptuales/Herramientas",
+    "Imágenes conceptuales/Wiki",
+    "Imágenes conceptuales/Página principal",
+    "Funciones principales de la aplicación/Proyectos personales.md",
+    "Funciones principales de la aplicación/Noticias.md",
+    "Funciones principales de la aplicación/Herramientas.md",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home",
+    "Spaces",
+    "Aspectos técnicos.md",
+    "Página principal.sync-conflict-20231119-140742-TJYK2I2.md",
+    "Noticias.md",
+    "Página.md",
+    "Página principal 1.md",
+    "Minecraft.net.md",
+    "Untitled.md",
+    "Estructura principal de la aplicación.md",
+    "resourcecalcuator.com/minecraft.md"
+  ]
+}

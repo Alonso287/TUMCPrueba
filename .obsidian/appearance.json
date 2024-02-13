@@ -1,0 +1,13 @@
+{
+  "accentColor": "#6c80f0",
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Franklin Gothic",
+  "translucency": false,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "nativeMenus": false
+}

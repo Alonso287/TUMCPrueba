@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabYoutube",
+      "RiQuestionFill",
+      "FasCode",
+      "FasBook",
+      "FasPencil"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Aspectos técnicos/Conexión a internet.md": "RaWifi",
+  "Aspectos técnicos/Lenguaje de programación.md": "SiFlutter",
+  "Aspectos técnicos": "FasCode",
+  "Funciones principales de la aplicación": "FasStar",
+  "Imágenes conceptuales": "LiImage",
+  "Ideas fundamentales del proyecto.md": "FasLightbulb",
+  "Ideas locas para un futuro remoto.md": "LiClock",
+  "Índice.md": "LiList",
+  "Interfaz.md": "FasMobileScreen",
+  "Página principal.md": "LiHome",
+  "Funciones principales de la aplicación/Estructura principal de la aplicación.canvas": "RiMindMap",
+  "Funciones principales de la aplicación/Herramientas.md": "RiToolsFill",
+  "Funciones principales de la aplicación/Noticias.md": "LiNewspaper",
+  "Funciones principales de la aplicación/Proyectos personales.md": "FasPencil",
+  "Funciones principales de la aplicación/Wiki.md": "FasBook",
+  "Aspectos técnicos/Tutoriales Flutter.md": "FabYoutube"
+}
