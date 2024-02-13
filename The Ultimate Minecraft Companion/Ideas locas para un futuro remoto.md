@@ -1,0 +1,6 @@
+- Página web
+- Versión web de la aplicación
+- Sincronización en varios dispositivos
+- Integración de la lista de tareas y coordenadas ([[Proyectos personales]]) en un mod para Minecraft Java
+- Extensión para navegadores para guardar contenidos interesantes  como tutoriales de granjas o 
+- 
